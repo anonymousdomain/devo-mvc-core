@@ -1,0 +1,10 @@
+{
+    "name": "devo/mvc-core",
+    "authors": [
+        {
+            "name": "anonymousdomain",
+            "email": "domainanonymous1@gmail.com"
+        }
+    ],
+    "require": {}
+}
